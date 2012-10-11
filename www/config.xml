@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "2.0.0愚税間わたぃわéèç">
-    <name></name>
+        version   = "2.0.0">
+    <name>我的应用程序</name>
 
     <description>
         Hello Shuiping, 水平愚税間わたぃわéèç_è--'^$ùmplo亜印gっをげwにwpw声wんw儀栄wペイ儀絵印rgるう８ｙｂげｌんずぐぇぐぃおがえｇｎ我的中国心爱奥多比阿哥王阿甘微辣国内外nogwwneiwgnwepa宿根国外This i a sample application that responds to the deviceready event.
@@ -15,7 +15,7 @@
 
     <feature name="http://api.phonegap.com/1.0/device" />
 
-    <preference name="phonegap-version" value="2.0.0" />
+    <preference name="phonegap-version" value="3.0.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
